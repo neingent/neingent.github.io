@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://neingent.github.io/sitemap.html.gz
+Sitemap: https://neingent.github.io/app/sitemap.html.gz
+Sitemap: https://neingent.github.io/assets/sitemap.html.gz
+Sitemap: https://neingent.github.io/css/sitemap.html.gz
+Sitemap: https://neingent.github.io/data/sitemap.html.gz
+Sitemap: https://neingent.github.io/includes/sitemap.html.gz
+Sitemap: https://neingent.github.io/item/sitemap.html.gz
+Sitemap: https://neingent.github.io/src/sitemap.html.gz
